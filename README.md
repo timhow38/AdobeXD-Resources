@@ -1,9 +1,10 @@
 ![alt text](https://i.ibb.co/TP28tJb/Screen-Shot-2017-07-13-at-1-09-20-PM-0.jpg)
 
 <!-- GETTING STARTED -->
-## Greetings
+## Adobe XD Resources
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Heya in this repository you'll find everything you'll need to create your own awesome Adobe XD projects.
+A key thing to note about Adobe XD it that its not just a prototyping tool you can use it in many oher ways.
 
-If your files are too big to upload to Github follow the instructions from this link: https://git-lfs.github.com/
+Note:
+If you are trying to upload your own files to your repo and the files say they are too big to upload follow the instructions from this link: https://git-lfs.github.com/
