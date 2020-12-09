@@ -3,7 +3,7 @@
 <!-- GETTING STARTED -->
 ## Adobe XD Resources
 
-Heya in this repository you'll find everything you'll need to create your own awesome Adobe XD projects.
+Yo in this repository you'll find everything you'll need to create your own awesome Adobe XD projects.
 A key thing to note about Adobe XD it that its not just a prototyping tool you can use it in many oher ways.
 
 Note:
